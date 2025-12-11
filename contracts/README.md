@@ -168,8 +168,3 @@ git push -u origin main
 - [ ] Screenshots included in `screenshots/` folder
 - [ ] Public GitHub repository link ready
 
----
-
-If you want, I can:
-- generate the `README.md` file for download now, or
-- produce the exact git commands with your GitHub repo URL filled in (paste your repo URL).
